@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  background-color: green;
+  display: flex;
+  justify-content: center;
+}
+
+.hero {
+  background-color: red;
+  width: 500px;
+  height: 600px;
+}
